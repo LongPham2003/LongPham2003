@@ -10,7 +10,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂Random Dev Meme
-<img src="[https://random-memer.herokuapp.com/](https://www.google.com/imgres?q=meme&imgurl=https%3A%2F%2Flh7-rt.googleusercontent.com%2Fdocsz%2FAD_4nXcMWMLZbyQBTasl65xrW2QIMqwAJT6_qzhTFzBk_60iV9K059FPU56_g6ay2OpLNoKtV1WWXNgTptL-fNqaCO0dAohO4kz_rBwbpZpn9hNQdsmwMS_sFTrmz6HKQZsORdJleeeE2sc6S2OfLh-I6aBmbTwP%3Fkey%3DtE_qip6BHPL4g00JXL_X6Q&imgrefurl=https%3A%2F%2Fm.pico.vn%2Ftong-hop-top-100-anh-meme-thu-vi-hai-huoc-nhat-2024-XQSU1528.b&docid=mjQU13X4G-rh8M&tbnid=YZ0i-EgO4vvokM&vet=12ahUKEwinzJmUsLyNAxXnhlYBHevFGQ8QM3oECBYQAA..i&w=768&h=432&hcb=2&ved=2ahUKEwinzJmUsLyNAxXnhlYBHevFGQ8QM3oECBYQAA)" width="512px"/>
+<img src="[[https://random-memer.herokuapp.com/](https://www.google.com/imgres?q=meme&imgurl=https%3A%2F%2Flh7-rt.googleusercontent.com%2Fdocsz%2FAD_4nXcMWMLZbyQBTasl65xrW2QIMqwAJT6_qzhTFzBk_60iV9K059FPU56_g6ay2OpLNoKtV1WWXNgTptL-fNqaCO0dAohO4kz_rBwbpZpn9hNQdsmwMS_sFTrmz6HKQZsORdJleeeE2sc6S2OfLh-I6aBmbTwP%3Fkey%3DtE_qip6BHPL4g00JXL_X6Q&imgrefurl=https%3A%2F%2Fm.pico.vn%2Ftong-hop-top-100-anh-meme-thu-vi-hai-huoc-nhat-2024-XQSU1528.b&docid=mjQU13X4G-rh8M&tbnid=YZ0i-EgO4vvokM&vet=12ahUKEwinzJmUsLyNAxXnhlYBHevFGQ8QM3oECBYQAA..i&w=768&h=432&hcb=2&ved=2ahUKEwinzJmUsLyNAxXnhlYBHevFGQ8QM3oECBYQAA)](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcMWMLZbyQBTasl65xrW2QIMqwAJT6_qzhTFzBk_60iV9K059FPU56_g6ay2OpLNoKtV1WWXNgTptL-fNqaCO0dAohO4kz_rBwbpZpn9hNQdsmwMS_sFTrmz6HKQZsORdJleeeE2sc6S2OfLh-I6aBmbTwP?key=tE_qip6BHPL4g00JXL_X6Q)" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=LongPham2003&icon=0&color=0)](https://visitcount.itsvg.in)
