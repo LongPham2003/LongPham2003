@@ -1,4 +1,4 @@
-### Hi fens👋, I'm [Pham Thanh Long](https://www.facebook.com/pham.thanh.long.184990?locale=vi_VN) ne!👋
+### Hello my friends👋, I'm [Pham Thanh Long](https://www.facebook.com/pham.thanh.long.184990?locale=vi_VN) ne!👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LongPham2003&label=Views&color=red&style=plastic" alt="LongPham2003"/> </p>
 
